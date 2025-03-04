@@ -40,7 +40,7 @@ To understand the relationships between terms, we train a **Word2Vec model** usi
 
 ## Report & Analysis
 For a detailed report on findings and term analysis, refer to:
-[Phrase Mining Report (PDF)](report/Phrase%20Mining%20Report.pdf"). 
+[Phrase Mining Report (PDF)](report/Phrase%20Mining%20Report.pdf). 
 
 ## Dependencies
 - `scikit-learn`
