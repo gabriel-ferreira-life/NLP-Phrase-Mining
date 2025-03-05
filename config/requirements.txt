@@ -2,4 +2,3 @@ scikit-learn
 nltk
 gensim
 rake-nltk
-pandas
